@@ -18,10 +18,12 @@ Este é um projeto prático desenvolvido em Python com o objetivo de automatizar
 Siga os passos abaixo para testar o projeto na sua máquina:
 
 1. **Clone este repositório:**
+```bash
+   git clone https://github.com/luccassilpereira-alt/Analisador-de-Logs-de-Seguran-a-Detec-o-de-For-a-Bruta-.git
 
-2. **Certifique-se de que o arquivo logs.txt (com os dados de exemplo) está na mesma pasta do script principal.**
+3. **Certifique-se de que o arquivo logs.txt (com os dados de exemplo) está na mesma pasta do script principal.**
 
-3. **Execute o script:**
+4. **Execute o script:**
 
 python nome_do_script.py
 
