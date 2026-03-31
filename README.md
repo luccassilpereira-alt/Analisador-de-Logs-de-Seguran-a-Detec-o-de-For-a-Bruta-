@@ -19,10 +19,10 @@ Siga os passos abaixo para testar o projeto na sua máquina:
 
 1. **Clone este repositório:**
 
-2. Certifique-se de que o arquivo logs.txt (com os dados de exemplo) está na mesma pasta do script principal.
+2. **Certifique-se de que o arquivo logs.txt (com os dados de exemplo) está na mesma pasta do script principal.**
 
-3. Execute o script:
+3. **Execute o script:**
 
 python nome_do_script.py
 
-4. O resultado da análise será salvo automaticamente no arquivo relatorio_alerta.txt dentro do mesmo diretório.
+4. **O resultado da análise será salvo automaticamente no arquivo relatorio_alerta.txt dentro do mesmo diretório.**
